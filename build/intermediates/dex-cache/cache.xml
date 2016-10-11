@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_7fa6be8c5f2e1486ab97cc23be4d85187a115f78\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_19fa2381590f4f258c9322e16fede6dc5b28863e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_296ac22e460cf63e018938c4996000059ad2d947\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_8c19851f86480cce0e9526918e77e2e67e9b5f5c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_29597114e658e330abf640c0dd3f840dd3f4ab8e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_1ba87ba5d30902d7467159852fbf985ff2f5f708\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4b82dd26f454f7a8a40047ce175cafa11fe34354">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3de32c9ffeef33bdc81365fbe9713f9e9e4f4488\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a2934652ee747ee99e858cb596e26e34d389971c">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1f00e4c2d4cf4f49c31fe54f52be789ea4663a38\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_8570ba11c805730e463ecb17c00b88d22992dcdb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_a02f5016b3ee119440d1c8256b8688b37d622108\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_cfb37599a8acfad3a01b3031d6a5315263f29b0b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_05df9c1faeb63ad92408b1f89a8402d975ff6d6e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_477363b2e8fe7f13f621cb6c270316e6aec70f64\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_285de1d0a2a42767d65de55a65e719afb81eb367\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_7a63eb2bff52d72f221de6a33dd294bb0fcc2c40\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_c3c8ef144ae6618224e621590744866506823125\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\Magic8Bean\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d650b021d8dbc9b772035f8deb5a7ae3428bf639\classes.dex" />
+    </item>
+
+</items>
